@@ -12,8 +12,6 @@ I'm an **innovative software engineer** focus on building creative and modern we
 <!-- WakaTime --><!-- WakaTime -->
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?usernamePelashdev)
 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PelashDev&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PelashDev&theme=default_repocard&hide_border=true)<br/>
 
