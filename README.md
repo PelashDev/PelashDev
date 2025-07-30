@@ -1,4 +1,4 @@
-## 👋 Hi! there. I'm Pelash
+## 👋 Hi! there. I'm Pelash.
 # 💫 About Me
 I'm an **innovative software engineer** focus on building creative and modern web experiences, modern websites with new technologies.<br><br>- 🔭 I’m currently learning **React**, **Vue**, and **3D design**.<br>- 🌱 Exploring **Web Development**, **System Programming**.<br>- 🎯 Goal: To become a top-tier full-stack developer and create meaningful software experiences.<br>- 📚 Always learning and building real projects.<br>- 💬 Ask me anything about Web Development!<br>
 
