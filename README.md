@@ -4,7 +4,7 @@ I'm an **innovative software engineer** focus on building creative and modern we
 
 
 
-## 📫 Let's Connect!
+## 📫 Contact me!
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pelash455_?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Oluwapelumiashabi4@gmail.com) 
 
 # 💻My Tech Stack!
