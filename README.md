@@ -1,4 +1,4 @@
-## **Hi👋, I'm Pelumi**
+## **Hi👋, I'm Pelumi....**
 #     Front-End Developer
 # 
 **I'm skilled in turning ideas into modern, responsive websites that work seamlessly across devices.**
