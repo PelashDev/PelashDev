@@ -1,5 +1,5 @@
 ## **Hi👋, I'm Pelumi**
-#  Front-End Developer...
+#  Front-End Developer..
 # 
 **I'm skilled in turning ideas into modern, responsive websites that work seamlessly across devices.**
 <br><br>- 🔭 I’m currently learning **React** and **3D design**.<br>- 🌱 Exploring **Web Development**, **System Programming**.<br>- 🎯 Goal: To become a top-tier full-stack developer and create meaningful software experiences.<br>- 📚 Always learning and building real projects.
