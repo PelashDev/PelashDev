@@ -4,7 +4,6 @@
 <br><br>-  I’m currently learning **React** and **3D design**.<br>- Exploring **Web Development**, **System Programming**.<br>- Goal: To become a top-tier full-stack developer and create meaningful software experiences.<br>-  Always learning and building real projects.
 
 
-
 ## 📫 Connect with me:
 <p align="left"> <a href="https://www.x.com/Pelash455_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> 
 
